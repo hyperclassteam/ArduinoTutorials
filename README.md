@@ -6,7 +6,7 @@ Each project has its own folder, with the Arduino sketch (`.ino`) and a `README.
 
 ## Projects
 
-- [telecomanda_ir](Ir_remote_clonner/) — learning IR remote that stores the command in a 24LC08B EEPROM
+- [telecomanda_ir](Ir_remote_cloner/) — learning IR remote that stores the command in a 24LC08B EEPROM
 
 ## Note
 
